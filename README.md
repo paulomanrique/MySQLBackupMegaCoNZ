@@ -1,4 +1,4 @@
-MySQLBackupMegaCoNZ
+Backup MySQL on Mega.co.nz
 ===================
 
 PHP script to backup a MySQL database and upload on mega.co.nz
