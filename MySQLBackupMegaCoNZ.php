@@ -339,5 +339,3 @@ $comando = 'mysqldump --user='.$db_user.' --password='.$db_pass.' --host='.$db_h
 exec($comando);
 login($mega_email, $mega_pass);
 uploadfile($filename);
-echo "upado ok";
-?>
